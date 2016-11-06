@@ -61,7 +61,6 @@ curl "http://iht.nstm.gov.tw/files/a/17-043%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D
 curl "http://iht.nstm.gov.tw/files/a/17-044%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 很.jpg
 curl "http://iht.nstm.gov.tw/files/a/17-045%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 律.jpg
 curl "http://iht.nstm.gov.tw/files/a/17-046%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 後.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH2_1018_01(1).JPG" -o 得.jpg
 curl "http://iht.nstm.gov.tw/files/a/17-048%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 徐.jpg
 curl "http://iht.nstm.gov.tw/files/a/17-049%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 徒.jpg
 curl "http://iht.nstm.gov.tw/files/a/17-050%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 御.jpg
@@ -136,7 +135,6 @@ curl "http://iht.nstm.gov.tw/files/a/17-114%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D
 curl "http://iht.nstm.gov.tw/files/a/13-067%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 不.jpg
 curl "http://iht.nstm.gov.tw/files/a/13-068%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 丑.jpg
 curl "http://iht.nstm.gov.tw/files/a/13-069%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 且.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH2_0170_01(1).JPG" -o 世.jpg
 curl "http://iht.nstm.gov.tw/files/a/13-071%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 傷.jpg
 curl "http://iht.nstm.gov.tw/files/a/13-072%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 催.jpg
 curl "http://iht.nstm.gov.tw/files/a/17-115%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 扣.jpg
@@ -493,7 +491,6 @@ curl "http://iht.nstm.gov.tw/files/a/143.jpg" -o 概.jpg
 curl "http://iht.nstm.gov.tw/files/a/144.jpg" -o 樂.jpg
 curl "http://iht.nstm.gov.tw/files/a/145.jpg" -o 樓.jpg
 curl "http://iht.nstm.gov.tw/files/a/146.jpg" -o 樑.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH2_1568_01.JPG" -o 樞.jpg
 curl "http://iht.nstm.gov.tw/files/a/148.jpg" -o 模.jpg
 curl "http://iht.nstm.gov.tw/files/a/149.jpg" -o 標.jpg
 curl "http://iht.nstm.gov.tw/files/a/150.jpg" -o 淡.jpg
@@ -523,7 +520,6 @@ curl "http://iht.nstm.gov.tw/files/a/20-023%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D
 curl "http://iht.nstm.gov.tw/files/a/20-024%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 洗.jpg
 curl "http://iht.nstm.gov.tw/files/a/13-103%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 俊.jpg
 curl "http://iht.nstm.gov.tw/files/a/13-104%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 俄.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH2_0235_01(1).JPG" -o 俠.jpg
 curl "http://iht.nstm.gov.tw/files/a/13-105%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 例.jpg
 curl "http://iht.nstm.gov.tw/files/a/13-107%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 供.jpg
 curl "http://iht.nstm.gov.tw/files/a/13-108%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 依.jpg
@@ -973,7 +969,6 @@ curl "http://iht.nstm.gov.tw/files/a/22-136%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D
 curl "http://iht.nstm.gov.tw/files/a/22-138%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 義.jpg
 curl "http://iht.nstm.gov.tw/files/a/22-139%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F(1).jpg" -o 翰.jpg
 curl "http://iht.nstm.gov.tw/files/a/22-140%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 耀.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH2_2224_01(1).JPG" -o 老.jpg
 curl "http://iht.nstm.gov.tw/files/a/22-142%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 羽.jpg
 curl "http://iht.nstm.gov.tw/files/a/22-143%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 翁.jpg
 curl "http://iht.nstm.gov.tw/files/a/22-144%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 考.jpg
@@ -1131,7 +1126,6 @@ curl "http://iht.nstm.gov.tw/files/a/23-138%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D
 curl "http://iht.nstm.gov.tw/files/a/23-139%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 裨.jpg
 curl "http://iht.nstm.gov.tw/files/a/23-140%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F(1).jpg" -o 裝.jpg
 curl "http://iht.nstm.gov.tw/files/a/23-141%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 補.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH2_2436_01(1).JPG" -o 裁.jpg
 curl "http://iht.nstm.gov.tw/files/a/23-143%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F(1).jpg" -o 裏.jpg
 curl "http://iht.nstm.gov.tw/files/a/23-144%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 裕.jpg
 curl "http://iht.nstm.gov.tw/files/a/23-145%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 被.jpg
@@ -1518,7 +1512,6 @@ curl "http://iht.nstm.gov.tw/files/a/26-037%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D
 curl "http://iht.nstm.gov.tw/files/a/26-038%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 頃.jpg
 curl "http://iht.nstm.gov.tw/files/a/26-039%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 順.jpg
 curl "http://iht.nstm.gov.tw/files/a/26-040%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 須.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH2_2935_01(1).JPG" -o 頌.jpg
 curl "http://iht.nstm.gov.tw/files/a/26-042%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 頓.jpg
 curl "http://iht.nstm.gov.tw/files/a/26-043%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 預.jpg
 curl "http://iht.nstm.gov.tw/files/a/26-044%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 頒.jpg
@@ -1566,7 +1559,6 @@ curl "http://iht.nstm.gov.tw/files/a/14-049%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D
 curl "http://iht.nstm.gov.tw/files/a/14-050%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 償.jpg
 curl "http://iht.nstm.gov.tw/files/a/14-051%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 元.jpg
 curl "http://iht.nstm.gov.tw/files/a/14-052%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 傾.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH2_0364_01(1).JPG" -o 偽.jpg
 curl "http://iht.nstm.gov.tw/files/a/14-054%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 僅.jpg
 curl "http://iht.nstm.gov.tw/files/a/26-085%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 五.jpg
 curl "http://iht.nstm.gov.tw/files/a/26-086%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 四.jpg
@@ -1760,7 +1752,7 @@ curl "http://iht.nstm.gov.tw/files/a/01-093%E7%81%B0%E9%9A%8E.jpg" -o 備.jpg
 curl "http://iht.nstm.gov.tw/files/a/01-094%E7%81%B0%E9%9A%8E.jpg" -o 債.jpg
 curl "http://iht.nstm.gov.tw/files/a/14-068%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 又.jpg
 curl "http://iht.nstm.gov.tw/files/a/14-069%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 及.jpg
-curl "http://iht.nstm.gov.tw/files/a/14-070%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 友.jpg
+#curl "http://iht.nstm.gov.tw/files/a/14-070%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 友.jpg
 curl "http://iht.nstm.gov.tw/files/a/14-071%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 原.jpg
 curl "http://iht.nstm.gov.tw/files/a/14-072%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 厚.jpg
 curl "http://iht.nstm.gov.tw/files/a/01-095%E7%81%B0%E9%9A%8E.jpg" -o 傷.jpg
@@ -1801,7 +1793,6 @@ curl "http://iht.nstm.gov.tw/files/a/01-130%E7%81%B0%E9%9A%8E.jpg" -o 半.jpg
 curl "http://iht.nstm.gov.tw/files/a/01-131%E7%81%B0%E9%9A%8E.jpg" -o 卓.jpg
 curl "http://iht.nstm.gov.tw/files/a/01-132%E7%81%B0%E9%9A%8E.jpg" -o 協.jpg
 curl "http://iht.nstm.gov.tw/files/a/01-133%E7%81%B0%E9%9A%8E.jpg" -o 南.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH1_0306_01(1).JPG" -o 博.jpg
 curl "http://iht.nstm.gov.tw/files/a/01-135%E7%81%B0%E9%9A%8E.jpg" -o 占.jpg
 curl "http://iht.nstm.gov.tw/files/a/01-136%E7%81%B0%E9%9A%8E.jpg" -o 印.jpg
 curl "http://iht.nstm.gov.tw/files/a/01-137%E7%81%B0%E9%9A%8E.jpg" -o 勿.jpg
@@ -1872,7 +1863,6 @@ curl "http://iht.nstm.gov.tw/files/a/02-050.jpg" -o 參.jpg
 curl "http://iht.nstm.gov.tw/files/a/02-051.jpg" -o 又.jpg
 curl "http://iht.nstm.gov.tw/files/a/02-052.jpg" -o 及.jpg
 curl "http://iht.nstm.gov.tw/files/a/02-053.jpg" -o 反.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH1_0412_01(1).JPG" -o 友.jpg
 curl "http://iht.nstm.gov.tw/files/a/02-055.jpg" -o 取.jpg
 curl "http://iht.nstm.gov.tw/files/a/02-056.jpg" -o 受.jpg
 curl "http://iht.nstm.gov.tw/files/a/02-057.jpg" -o 口.jpg
@@ -2003,7 +1993,6 @@ curl "http://iht.nstm.gov.tw/files/a/03-013.jpg" -o 嚮.jpg
 curl "http://iht.nstm.gov.tw/files/a/03-014.jpg" -o 嚴.jpg
 curl "http://iht.nstm.gov.tw/files/a/03-015.jpg" -o 囑.jpg
 curl "http://iht.nstm.gov.tw/files/a/03-016.jpg" -o 回.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH1_0561_01(1).JPG" -o 因.jpg
 curl "http://iht.nstm.gov.tw/files/a/03-018.jpg" -o 固.jpg
 curl "http://iht.nstm.gov.tw/files/a/03-019.jpg" -o 國.jpg
 curl "http://iht.nstm.gov.tw/files/a/03-020.jpg" -o 園.jpg
@@ -2095,7 +2084,6 @@ curl "http://iht.nstm.gov.tw/files/a/14-101%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D
 curl "http://iht.nstm.gov.tw/files/a/14-102%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 勤.jpg
 curl "http://iht.nstm.gov.tw/files/a/03-095.jpg" -o 店.jpg
 curl "http://iht.nstm.gov.tw/files/a/03-096.jpg" -o 底.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH1_0713_01(1).JPG" -o 序.jpg
 curl "http://iht.nstm.gov.tw/files/a/03-098.jpg" -o 幾.jpg
 curl "http://iht.nstm.gov.tw/files/a/03-099.jpg" -o 幼.jpg
 curl "http://iht.nstm.gov.tw/files/a/03-100.jpg" -o 幻.jpg
@@ -2187,7 +2175,6 @@ curl "http://iht.nstm.gov.tw/files/a/04-031%E7%81%B0%E9%9A%8E.jpg" -o 律.jpg
 curl "http://iht.nstm.gov.tw/files/a/04-032%E7%81%B0%E9%9A%8E.jpg" -o 很.jpg
 curl "http://iht.nstm.gov.tw/files/a/04-033%E7%81%B0%E9%9A%8E.jpg" -o 待.jpg
 curl "http://iht.nstm.gov.tw/files/a/04-034%E7%81%B0%E9%9A%8E.jpg" -o 征.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH1_0838_01(1).JPG" -o 往.jpg
 curl "http://iht.nstm.gov.tw/files/a/04-036%E7%81%B0%E9%9A%8E(1).jpg" -o 彼.jpg
 curl "http://iht.nstm.gov.tw/files/a/04-037%E7%81%B0%E9%9A%8E.jpg" -o 役.jpg
 curl "http://iht.nstm.gov.tw/files/a/04-038%E7%81%B0%E9%9A%8E.jpg" -o 彰.jpg
@@ -2306,10 +2293,8 @@ curl "http://iht.nstm.gov.tw/files/a/04-139%E7%81%B0%E9%9A%8E.jpg" -o 既.jpg
 curl "http://iht.nstm.gov.tw/files/a/04-140%E7%81%B0%E9%9A%8E.jpg" -o 族.jpg
 curl "http://iht.nstm.gov.tw/files/a/04-141%E7%81%B0%E9%9A%8E.jpg" -o 旅.jpg
 curl "http://iht.nstm.gov.tw/files/a/04-142%E7%81%B0%E9%9A%8E.jpg" -o 施.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH1_1018_01(1).JPG" -o 於.jpg
 curl "http://iht.nstm.gov.tw/files/a/04-144%E7%81%B0%E9%9A%8E.jpg" -o 方.jpg
 curl "http://iht.nstm.gov.tw/files/a/04-145%E7%81%B0%E9%9A%8E.jpg" -o 斷.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH1_1021_01(3).JPG" -o 新.jpg
 curl "http://iht.nstm.gov.tw/files/a/04-147%E7%81%B0%E9%9A%8E.jpg" -o 斯.jpg
 curl "http://iht.nstm.gov.tw/files/a/04-148%E7%81%B0%E9%9A%8E.jpg" -o 斤.jpg
 curl "http://iht.nstm.gov.tw/files/a/04-149%E7%81%B0%E9%9A%8E.jpg" -o 料.jpg
@@ -2367,7 +2352,6 @@ curl "http://iht.nstm.gov.tw/files/a/05-045%E7%81%B0%E9%9A%8E.jpg" -o 普.jpg
 curl "http://iht.nstm.gov.tw/files/a/05-046%E7%81%B0%E9%9A%8E.jpg" -o 景.jpg
 curl "http://iht.nstm.gov.tw/files/a/05-047%E7%81%B0%E9%9A%8E.jpg" -o 智.jpg
 curl "http://iht.nstm.gov.tw/files/a/05-048%E7%81%B0%E9%9A%8E.jpg" -o 暫.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH1_1111_01(1).JPG" -o 暨.jpg
 curl "http://iht.nstm.gov.tw/files/a/05-050%E7%81%B0%E9%9A%8E.jpg" -o 曰.jpg
 curl "http://iht.nstm.gov.tw/files/a/05-051%E7%81%B0%E9%9A%8E.jpg" -o 更.jpg
 curl "http://iht.nstm.gov.tw/files/a/05-052%E7%81%B0%E9%9A%8E.jpg" -o 書.jpg
@@ -2642,7 +2626,6 @@ curl "http://iht.nstm.gov.tw/files/a/07-012%E7%81%B0%E9%9A%8E.jpg" -o 知.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-011%E7%81%B0%E9%9A%8E.jpg" -o 矣.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-010%E7%81%B0%E9%9A%8E.jpg" -o 督.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-009%E7%81%B0%E9%9A%8E.jpg" -o 睡.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH1_1519_01(1).JPG" -o 眷.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-007%E7%81%B0%E9%9A%8E.jpg" -o 真.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-005%E7%81%B0%E9%9A%8E.jpg" -o 看.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-004%E7%81%B0%E9%9A%8E.jpg" -o 相.jpg
@@ -2663,7 +2646,7 @@ curl "http://iht.nstm.gov.tw/files/a/07-050%E7%81%B0%E9%9A%8E.jpg" -o 皮.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-049%E7%81%B0%E9%9A%8E.jpg" -o 皇.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-048%E7%81%B0%E9%9A%8E.jpg" -o 皆.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-047%E7%81%B0%E9%9A%8E.jpg" -o 的.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH2_0522_01.JPG" -o 圈.jpg
+#curl "http://iht.nstm.gov.tw/files/a/FH2_0522_01.JPG" -o 圈.jpg
 curl "http://iht.nstm.gov.tw/files/a/15-002%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 回.jpg
 curl "http://iht.nstm.gov.tw/files/a/15-003%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 因.jpg
 curl "http://iht.nstm.gov.tw/files/a/15-004%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 善.jpg
@@ -2676,7 +2659,6 @@ curl "http://iht.nstm.gov.tw/files/a/07-043%E7%81%B0%E9%9A%8E.jpg" -o 登.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-042%E7%81%B0%E9%9A%8E.jpg" -o 癸.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-040%E7%81%B0%E9%9A%8E.jpg" -o 療.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-039%E7%81%B0%E9%9A%8E.jpg" -o 痛.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH1_1548_01(1).JPG" -o 病.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-037%E7%81%B0%E9%9A%8E.jpg" -o 疾.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-036%E7%81%B0%E9%9A%8E.jpg" -o 症.jpg
 curl "http://iht.nstm.gov.tw/files/a/07-034%E7%81%B0%E9%9A%8E(1).jpg" -o 疫.jpg
@@ -2863,7 +2845,6 @@ curl "http://iht.nstm.gov.tw/files/a/15-020%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D
 curl "http://iht.nstm.gov.tw/files/a/15-021%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 名.jpg
 curl "http://iht.nstm.gov.tw/files/a/15-022%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 台.jpg
 curl "http://iht.nstm.gov.tw/files/a/15-023%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 同.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH2_0545_01.JPG" -o 吉.jpg
 curl "http://iht.nstm.gov.tw/files/a/08-066%E7%81%B0%E9%9A%8E.jpg" -o 脈.jpg
 curl "http://iht.nstm.gov.tw/files/a/08-067%E7%81%B0%E9%9A%8E.jpg" -o 胡.jpg
 curl "http://iht.nstm.gov.tw/files/a/08-068%E7%81%B0%E9%9A%8E.jpg" -o 胞.jpg
@@ -3231,7 +3212,6 @@ curl "http://iht.nstm.gov.tw/files/a/10-103%E7%81%B0%E9%9A%8E.jpg" -o 錶.jpg
 curl "http://iht.nstm.gov.tw/files/a/10-104%E7%81%B0%E9%9A%8E.jpg" -o 釐.jpg
 curl "http://iht.nstm.gov.tw/files/a/10-105%E7%81%B0%E9%9A%8E.jpg" -o 金.jpg
 curl "http://iht.nstm.gov.tw/files/a/10-106%E7%81%B0%E9%9A%8E(1).jpg" -o 鈔.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH1_2352_01.JPG" -o 鈞.jpg
 curl "http://iht.nstm.gov.tw/files/a/10-108%E7%81%B0%E9%9A%8E.jpg" -o 鉅.jpg
 curl "http://iht.nstm.gov.tw/files/a/10-109%E7%81%B0%E9%9A%8E.jpg" -o 鉛.jpg
 curl "http://iht.nstm.gov.tw/files/a/10-110%E7%81%B0%E9%9A%8E.jpg" -o 銘.jpg
@@ -3563,7 +3543,6 @@ curl "http://iht.nstm.gov.tw/files/a/13-048%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D
 curl "http://iht.nstm.gov.tw/files/a/16-025%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 奴.jpg
 curl "http://iht.nstm.gov.tw/files/a/16-026%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 奸.jpg
 curl "http://iht.nstm.gov.tw/files/a/16-027%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 如.jpg
-curl "http://iht.nstm.gov.tw/files/a/FH2_0759_01(1).JPG" -o 好.jpg
 curl "http://iht.nstm.gov.tw/files/a/16-029%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 妙.jpg
 curl "http://iht.nstm.gov.tw/files/a/16-030%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 妥.jpg
 curl "http://iht.nstm.gov.tw/files/a/16-031%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 妖.jpg
