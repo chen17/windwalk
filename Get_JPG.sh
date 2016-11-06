@@ -3427,7 +3427,7 @@ curl "http://iht.nstm.gov.tw/files/a/11-149%E7%81%B0%E9%9A%8E-初號二分.jpg" 
 curl "http://iht.nstm.gov.tw/files/a/11-150%E7%81%B0%E9%9A%8E-初號二分.jpg" -o 聖.jpg
 curl "http://iht.nstm.gov.tw/files/a/11-148%E7%81%B0%E9%9A%8E-初號二分.jpg" -o 並.jpg
 curl "http://iht.nstm.gov.tw/files/a/12-024%E7%81%B0%E9%9A%8E.jpg" -o ─.jpg
-url "http://iht.nstm.gov.tw/files/a/15-073%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 壢.jpg
+curl "http://iht.nstm.gov.tw/files/a/15-073%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 壢.jpg
 curl "http://iht.nstm.gov.tw/files/a/15-074%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 墨.jpg
 curl "http://iht.nstm.gov.tw/files/a/15-075%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 壇.jpg
 curl "http://iht.nstm.gov.tw/files/a/15-076%E7%81%B0%E9%9A%8E-%E6%96%B0%E5%88%9D%E8%99%9F.jpg" -o 增.jpg
