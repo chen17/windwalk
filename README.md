@@ -5,8 +5,8 @@ Script to create windwalk font from http://iht.nstm.gov.tw/.
 
 # Install necessary tools.
 
-apt-get install python-fontforge imagemagick potrace
+apt-get install python-fontforge imagemagick potrace python3-opencv
 
 # Generate font.
 
-python genwwnkt0.py
+python3 genwwnkt0.py
